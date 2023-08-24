@@ -1,6 +1,6 @@
 # Pong
 
-![Pong Game Screenshot]()
+![Pong Game Screenshot](https://github.com/mozeezy/pong_oop/blob/main/screenshot/pong.png?raw=true)
 
 Classic Pong game implementation in Python using Object-oriented programming (OOP). Play against friend for some nostalgic arcade fun!
 
